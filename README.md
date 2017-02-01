@@ -1,5 +1,9 @@
 ## Website Performance Optimization portfolio project
 
+####How to start
+
+You can download the files or visit [this link](https://quasidedo.github.io/frontend-nanodegree-mobile-portfolio/)
+
 ####Part 1: Optimize PageSpeed Insights score for index.html
 
 1. Loads asynchronously Google Analytics adding async attribute to the script tag
